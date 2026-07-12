@@ -29,6 +29,10 @@ const galleries = {
     images: ["images/acm-screenshot-1.png", "images/acm-screenshot-2.png"],
     current: 0,
   },
+  repair: {
+    images: ["images/repair-screenshot-1.png", "images/repair-screenshot-2.png", "images/repair-screenshot-3.png"],
+    current: 0,
+  }
 };
 
 function updateGallery(galleryId) {
